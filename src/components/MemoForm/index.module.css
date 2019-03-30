@@ -1,0 +1,15 @@
+.mask {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.container {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 100px;
+  height: 1000px;
+}
