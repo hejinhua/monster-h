@@ -8,7 +8,7 @@
 
 .addBtn {
   width: 150px;
-  height: 60px;
+  height: 70px;
   margin-top: 80px;
   margin-left: 550px;
   text-align: center;
@@ -19,11 +19,19 @@
   height: 50px;
 }
 
-.content {
+.addText {
   width: 100%;
-  margin-top: 210px;
-  /* display: flex;
-  flex-wrap: wrap; */
+  height: 20px;
+  font-size: 20px;
+  color: #88888D;
+}
+
+.content {
+  width: 85%;
+  margin: 210px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .container {

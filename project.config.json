@@ -1,16 +1,16 @@
 {
-  "miniprogramRoot": "dist/",
-  "projectname": "monster-h",
-  "cloudfunctionRoot": "cloudfunctions",
-  "description": "",
-  "appid": "wx5948925a640e386a",
-  "setting": {
-    "urlCheck": false,
-    "es6": false,
-    "postcss": false,
-    "minified": false,
-    "newFeature": true
-  },
-  "compileType": "miniprogram",
-  "condition": {}
+	"miniprogramRoot": "dist/",
+	"projectname": "monster-h",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"description": "",
+	"appid": "wx5948925a640e386a",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"condition": {}
 }

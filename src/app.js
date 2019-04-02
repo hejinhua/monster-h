@@ -6,7 +6,7 @@ import './app.scss'
 
 class App extends Component {
   config = {
-    pages: ['pages/me/index', 'pages/plan/index', 'pages/index/index'],
+    pages: ['pages/me/index', 'pages/plan/index', 'pages/index/index', 'pages/article/index'],
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#FF8C00',
@@ -45,11 +45,11 @@ class App extends Component {
     }
   }
 
-  componentDidMount() {}
+  componentDidMount() { }
 
-  componentDidShow() {}
+  componentDidShow() { }
 
-  componentDidHide() {}
+  componentDidHide() { }
 
   componentCatchError() {
     console.log('catch error')
